@@ -1,16 +1,16 @@
 #Use Case 1
-Title
+Title:
 
-Primary Actor
+Primary Actor:
 
-Goal in Context
+Goal in Context:
 
-Stakeholders
+Stakeholders:
 
-Preconditions
+Preconditions:
 
-Main Success Scenario
+Main Success Scenario:
 
-Faild End Conditions
+Faild End Conditions:
 
-Trigger
+Trigger:
