@@ -1,5 +1,5 @@
 #Use Case 1
-Title:
+**bold**Title:**bold**
 Developer commits code to be examined for vulnerabilities
 
 Primary Actor:
