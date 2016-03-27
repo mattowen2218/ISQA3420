@@ -1,18 +1,18 @@
 # Use Case 3
-Title:
+**Title:**
 
-Primary Actor:
+**Primary Actor:**
 
-Goal in Context:
+**Goal in Context:**
 
-Stakeholders:
+**Stakeholders:**
 
-Preconditions:
+**Preconditions:**
 
-Main Success Scenario:
+**Main Success Scenario:**
 
-Failed End Conditions:
+**Failed End Conditions:**
 
-Trigger:
+**Trigger:**
 
 
