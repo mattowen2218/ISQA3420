@@ -6,9 +6,7 @@ Within the organization all external source must meet the expectations set forth
 
 **Thresholds**
 
-CVE Scores - 
-
-All external sources must be rated no higher than a 6 on the CVE scale of 10 in order be considered for use within the organization.  If the source is higher than a 5 on the scale,  the source must be examined for possible improvements.  All other source falling within the guidelines may be implemented into the organization.
+CVE Scores - All external sources must be rated no higher than a 6 on the CVE scale of 10 in order be considered for use within the organization.  If the source is higher than a 5 on the scale,  the source must be examined for possible improvements.  All other source falling within the guidelines may be implemented into the organization.
 
 Liscensing - All external source that comes into the organization must abide by the liscensing associated with the source. Any liscensing on external source that compromises the integrity of the organization will not be utilized. 
 
