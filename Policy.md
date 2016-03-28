@@ -9,4 +9,4 @@ CVE Scores - All external sources must be rated no higher than a 6 on the CVE sc
 Liscensing - All external source that comes into the organization must abide by the liscensing associated with the source. Any liscensing on external source that compromises the integrity of the organization will not be utilized. 
 
 **Response**
-
+If the external source does not fit the thresholds provided in this document, the source must be rejected.  If the liscensing information attached to the source compromises the integrity of our organization, the source will also be rejected and developers must find new source that acheives the same goal.  If no external source exists that meets our thresholds, the development process will be done in house.  
