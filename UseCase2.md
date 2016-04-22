@@ -1,4 +1,4 @@
-# Use Case 3
+# Use Case 2
 **Title:**
 
 **Primary Actor:**
