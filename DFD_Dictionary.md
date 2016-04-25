@@ -49,7 +49,6 @@ A response from the National Vulnerability Database with the CPE score of a pack
 A file that is created that contains the CPE score from the NIST database along with the package information that the score is related to.
 * __Package and CPE info:__
 A combination of the package and the CPE information that are to be stored together in the risk database.
-* __:__
 * __Project Policy Info:__
 A document containing the policy currently in place for the project.
 * __Policy Info Request:__
