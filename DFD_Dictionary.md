@@ -69,16 +69,3 @@ A request made by the corporate developer, asking for project information regard
 * __Vulnerability Response:__
 * __Manifest File:__
 * __Discovered Policy Violations:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-
-
-### Other Definitions
