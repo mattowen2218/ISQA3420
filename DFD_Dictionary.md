@@ -34,11 +34,30 @@
 * __Determine Policy Violations__
 > A process that takes in information such as the project information and project policy information and compares the two documents to see if any part of the project is in violation of the policy and returns a file that tells the corporate manager what, if any, part of the project is in violation of the policy.
 
-
 * __Create Manifest__
 >Create manifest is a process that recieves the package and vulnerability information from the coporate manager and creates a manifest file that is then passed back to the coporate manager.
 
-
 ### Relationships
+
+* __Package:__
+* __:__
+* __:__
+* __:__
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
 
 ### Other Definitions
