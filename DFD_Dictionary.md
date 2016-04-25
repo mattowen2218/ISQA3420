@@ -37,7 +37,7 @@
 * __Create Manifest__
 >Create manifest is a process that recieves the package and vulnerability information from the coporate manager and creates a manifest file that is then passed back to the coporate manager.
 
-### Relationships
+### Data Flows
 
 * __Package:__
 A package of useful code--the result of using or retooling external source to meet the needs of the project--that will be used in the project, if no policy violations have occured from the package's vulnerability information.
