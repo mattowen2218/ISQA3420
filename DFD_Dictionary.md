@@ -32,6 +32,7 @@
 > A process that accepts project info from the corporate manager and will then either request policy information, or add new policy information to the Policy Database. When the process requests policy information from the Policy Database, it'll receive a response with the pertinent policy information. The retrieved project policy information will then be returned to the corporate manager.
 
 * __Determine Policy Violations__
+> A process that takes in information such as the project information and project policy information and compares the two documents to see if any part of the project is in violation of the policy and returns a file that tells the corporate manager what, if any, part of the project is in violation of the policy.
 
 
 * __Create Manifest__
