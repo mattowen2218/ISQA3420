@@ -16,6 +16,20 @@
 
 ### Processes
 
+* __Manage CPE Information__
+
+* __Manage Code Streams__
+
+* __Manage Project Source Code__
+
+* __Manage Risk Information__
+
+* __Manage Policy Information__
+
+* __Determine Policy Violations__
+
+* __Create Manifest__
+
 ### Relationships
 
 ### Other Definitions
