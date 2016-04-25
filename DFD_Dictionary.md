@@ -4,11 +4,16 @@ DFD Dictionary
 Data Stores
 -----------
 
-* __CPE Information Database__<br>
+* __CPE Information DB__<br>
 Common platform enumeration score that is provided by NIST and ranks the external source code with a vulnerability score that is stored within the data store for refernce at a later time.
 
-* __Risk Database__<br>
+* __Risk DB__<br>
 The risk database stores packages and the CPE information that belongs to the package. All external source packages incoming to the organization are required to be stored in this database.
+
+
+* __Policy DB__<br>
+All policies within the organization are created and then stored in the Policy Database for reference at any time throughout the project. Policies stored here outline all regulations that must be met in order for the project to meet criteria in order to continue.
+
 
 Processes
 ---------
