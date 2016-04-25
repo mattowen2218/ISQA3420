@@ -72,16 +72,3 @@ A response to the Project risk request by the Risk Database, giving the risk inf
 * __Manifest File:__
 * __Discovered Policy Violations:__
 A file containing the comparison of the policy and the current project to show violations and risks that do not meet the guidelines outlined by the policy.
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-
-
-### Other Definitions
