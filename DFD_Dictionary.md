@@ -23,7 +23,7 @@
 > A process that takes the external file and package from the developer, sends the package to the CPE Information DB, and recieves the corresponding CPE file to that package. It then sends the package and the received CPE information to the Risk database to be stored for eventual use by the manager.
 
 * __Manage Project Source Code__
-> 
+> A process that the corporate manager can supply with project information whenever is necessary. Whenever new external source is needed for the process, the process will inform the corporate developer of the need. The corporate developer can also request information on the project via this process.
 
 * __Manage Risk Information__
 > A process that accepts project information from the corporate manager, and then requests project risk information from the Risk Database. The Risk Database sends back a response with risk information relevant to the requested information. Vulnerability information is then returned back to the corporate manager for other uses. 
