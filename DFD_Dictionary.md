@@ -42,7 +42,9 @@
 * __Package:__
 * __Source file:__
 * __CPE request:__
+A request of the CPE score on a package to check for known vulnerabilities.
 * __CPE response:__
+A response from the National Vulnerability Database with the CPE score of a package.
 * __CPE file:__
 * __Package and CPE info:__
 * __:__
