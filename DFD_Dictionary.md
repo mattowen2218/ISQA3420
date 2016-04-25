@@ -26,7 +26,7 @@
 > 
 
 * __Manage Risk Information__
-> 
+> A process that accepts project information from the corporate manager, and then requests project risk information from the Risk Database. The Risk Database sends back a response with risk information relevant to the requested information. Vulnerability information is then returned back to the corporate manager for other uses. 
 
 * __Manage Policy Information__
 
