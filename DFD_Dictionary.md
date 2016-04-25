@@ -8,6 +8,10 @@ Common platform enumeration score that is provided by NIST and ranks the externa
 
 **Processes**
 
+Risk DB:<br>
+The risk database stores packages and the CPE information that belongs to the package. All external source packages incoming to the organization are required to be stored in this database.
+
+
 **Relationships**
 
 **Other Definitions**
