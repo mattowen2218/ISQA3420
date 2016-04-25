@@ -51,16 +51,18 @@ A response from the National Vulnerability Database with the CPE score of a pack
 A file that is created that contains the CPE score from the NIST database along with the package information that the score is related to.
 * __Package and CPE info:__
 A combination of the package and the CPE information that are to be stored together in the risk database.
-* __Project Policy Info:__
+* __Project policy info:__
 A document containing the policy currently in place for the project.
-* __Policy Info Request:__
+* __Policy info request:__
 A request sent to the policy database in order to recieve the policy information.
-* __Project Policy Info Response:__
+* __Project policy info response:__
 A response provided to the requester on the current policy information regulating the project.
-* __Project Info:__
+* __Project info:__
 A document containing all the current project information.
-* __:__
-* __:__
+* __External source code retrieval request:__
+A request made by the corporate manager, informing the developer to retrieve and use more source code (specified by the request.)
+* __External source info request:__
+A request made by the corporate developer, asking for project information regarding external source (if new external source is needed, or what external source will be used, ect.)
 * __:__
 * __:__
 * __:__
