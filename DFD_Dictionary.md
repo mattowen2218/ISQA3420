@@ -64,11 +64,14 @@ A request made by the corporate manager, informing the developer to retrieve and
 * __External source info request:__
 A request made by the corporate developer, asking for project information regarding external source (if new external source is needed, or what external source will be used, ect.)
 * __CPE Info:__
+A document containing the CPE score and other vulnerabilities about a package.
 * __Project Risk Request:__
 A request made to the Risk Database for the risk information on a package or packages.
 * __Project Risk Response:__
 A response to the Project risk request by the Risk Database, giving the risk information on a package or packages.
 * __Vulnerability Info:__
+A document that provides the CPE score along with known risks and vulnerabilities of the package.
 * __Manifest File:__
+A document that contains the package and vulnerability information along with other necessary information on the package that is in consideration for engagement.
 * __Discovered Policy Violations:__
 A file containing the comparison of the policy and the current project to show violations and risks that do not meet the guidelines outlined by the policy.
