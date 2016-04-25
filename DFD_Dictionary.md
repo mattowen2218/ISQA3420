@@ -17,18 +17,25 @@
 ### Processes
 
 * __Manage CPE Information__
+> A process that sends a request to NIST for risks and vulnerabilites on a specific package. This package also receives the information from NIST and creates a file that contains CPE information on the package and sends the file to the CPE Information Database to be stored.
 
 * __Manage Code Streams__
+> A process that takes the external file and package from the developer, sends the package to the CPE Information DB, and recieves the corresponding CPE file to that package. It then sends the package and the received CPE information to the Risk database to be stored for eventual use by the manager.
 
 * __Manage Project Source Code__
+> 
 
 * __Manage Risk Information__
+> 
 
 * __Manage Policy Information__
 
+
 * __Determine Policy Violations__
 
+
 * __Create Manifest__
+
 
 ### Relationships
 
