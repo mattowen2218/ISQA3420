@@ -1,8 +1,8 @@
 # DFD Dictionary
 
 **Data Stores**
-CPE Information Database
-------------------------
+CPE Information Database:
+
 
 **Processes**
 
