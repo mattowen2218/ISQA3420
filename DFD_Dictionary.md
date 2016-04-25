@@ -29,7 +29,7 @@
 > A process that accepts project information from the corporate manager, and then requests project risk information from the Risk Database. The Risk Database sends back a response with risk information relevant to the requested information. Vulnerability information is then returned back to the corporate manager for other uses. 
 
 * __Manage Policy Information__
-
+> A process that accepts project info from the corporate manager and will then either request policy information, or add new policy information to the Policy Database. When the process requests policy information from the Policy Database, it'll receive a response with the pertinent policy information. The retrieved project policy information will then be returned to the corporate manager.
 
 * __Determine Policy Violations__
 
