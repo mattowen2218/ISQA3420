@@ -66,7 +66,7 @@ A request made by the corporate developer, asking for project information regard
 * __CPE Info:__
 * __Project Risk Request:__
 * __Project Risk Response:__
-* __Vulnerability Response:__
+* __Vulnerability Info:__
 * __Manifest File:__
 * __Discovered Policy Violations:__
 A file containing the comparison of the policy and the current project to show violations and risks that do not meet the guidelines outlined by the policy.
