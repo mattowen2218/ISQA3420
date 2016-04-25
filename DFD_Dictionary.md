@@ -69,3 +69,17 @@ A request made by the corporate developer, asking for project information regard
 * __Vulnerability Response:__
 * __Manifest File:__
 * __Discovered Policy Violations:__
+A file containing the comparison of the policy and the current project to show violations and risks that do not meet the guidelines outlined by the policy.
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+
+
+### Other Definitions
