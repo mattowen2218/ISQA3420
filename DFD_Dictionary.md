@@ -40,7 +40,9 @@
 ### Relationships
 
 * __Package:__
+A package of useful code, being the result of the developer's integration of the external source into code that may be used in the project, pending vulnerability info meeting policy.
 * __Source file:__
+The source code of the external source that informs the creation of the package.
 * __CPE request:__
 A request of the CPE score on a package to check for known vulnerabilities.
 * __CPE response:__
