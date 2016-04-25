@@ -40,7 +40,8 @@
 ### Relationships
 
 * __Package:__
-* __CPE Request:__A request of the CPE score on a package with known vulnerabilities
+* __CPE Request:__
+* A request of the CPE score on a package with known vulnerabilities
 * __:__
 * __:__
 * 
