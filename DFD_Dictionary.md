@@ -56,7 +56,8 @@ A document containing the policy currently in place for the project.
 A request sent to the policy database in order to recieve the policy information.
 * __Project Policy Info Response:__
 A response provided to the requester on the current policy information regulating the project.
-* __:__
+* __Project Info:__
+A document containing all the current project information.
 * __:__
 * __:__
 * __:__
