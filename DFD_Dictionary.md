@@ -40,9 +40,7 @@
 ### Relationships
 
 * __Package:__
-A package of useful code, being the result of the developer's integration of the external source into code that may be used in the project, pending vulnerability info meeting policy.
 * __Source file:__
-The source code of the external source that informs the creation of the package.
 * __CPE request:__
 A request of the CPE score on a package to check for known vulnerabilities.
 * __CPE response:__
@@ -52,9 +50,12 @@ A file that is created that contains the CPE score from the NIST database along 
 * __Package and CPE info:__
 A combination of the package and the CPE information that are to be stored together in the risk database.
 * __:__
-* __:__
-* __:__
-* __:__
+* __Project Policy Info:__
+A document containing the policy currently in place for the project.
+* __Policy Info Request:__
+A request sent to the policy database in order to recieve the policy information.
+* __Project Policy Info Response:__
+A response provided to the requester on the current policy information regulating the project.
 * __:__
 * __:__
 * __:__
