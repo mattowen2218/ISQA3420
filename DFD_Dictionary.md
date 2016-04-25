@@ -40,25 +40,34 @@
 ### Relationships
 
 * __Package:__
-* __CPE Request:__
-A request of the CPE score on a package with known vulnerabilities
+* __Source file:__
+* __CPE request:__
+* __CPE response:__
+* __CPE file:__
+* __Package and CPE info:__
 * __:__
 * __:__
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
+* __:__
 
 
 ### Other Definitions
