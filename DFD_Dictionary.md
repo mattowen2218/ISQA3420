@@ -63,12 +63,12 @@ A document containing all the current project information.
 A request made by the corporate manager, informing the developer to retrieve and use more source code (specified by the request.)
 * __External source info request:__
 A request made by the corporate developer, asking for project information regarding external source (if new external source is needed, or what external source will be used, ect.)
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
+* __CPE Info:__
+* __Project Risk Request:__
+* __Project Risk Response:__
+* __Vulnerability Response:__
+* __Manifest File:__
+* __Discovered Policy Violations:__
 * __:__
 * __:__
 * __:__
