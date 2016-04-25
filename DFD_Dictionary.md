@@ -73,16 +73,3 @@ A document that outlines the current vulnerabilities within the external source 
 A file that contains the package and vulnerability information along with other necessary information about the project.
 * __Discovered Policy Violations:__
 A file containing the comparison of the policy and the current project to show violations and risks that do not meet the guidelines outlined by the policy.
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-* __:__
-
-
-### Other Definitions
