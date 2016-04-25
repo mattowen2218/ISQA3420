@@ -15,11 +15,12 @@ DFD Dictionary
 > All policies within the organization are created and then stored in the Policy Database for reference at any time throughout the project. Policies stored here outline all regulations that must be met in order for the project to meet criteria in order to continue.
 
 
-Processes
----------
+* __National Vulnerability Database__<br>
+> The National Vulnerability Database is an external database that we use in order to request CPE information on external packages we are considering engaging with. This provides the vulnerabilities and other information that allows us to see if the package meets our rules and regulations.
 
-Relationships
--------------
 
-Other Definitions
------------------
+### Processes
+
+### Relationships
+
+### Other Definitions
