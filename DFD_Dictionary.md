@@ -75,3 +75,7 @@ A document that provides the CPE score along with known risks and vulnerabilitie
 A document that contains the package and vulnerability information along with other necessary information on the package that is in consideration for engagement.
 * __Discovered Policy Violations:__
 A file containing the comparison of the policy and the current project to show violations and risks that do not meet the guidelines outlined by the policy.
+
+### External Entities
+*Developer
+*Corporate Manager
