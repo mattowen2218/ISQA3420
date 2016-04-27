@@ -4,7 +4,7 @@
 Manager collects package risk information
 
 * __Primary Actor:__
-
+Manager
 
 * __Goal in Context:__
 
