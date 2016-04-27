@@ -10,7 +10,7 @@ Manager
 
 
 * __Stakeholders:__
-
+Developer/Manager
 
 * __Preconditions:__
 
