@@ -1,8 +1,8 @@
 # Use Case 2
-*__Title:__
+* __Title:__
 Manager determines policy violations on a package
 
-*__Primary Actor:__
+* __Primary Actor:__
 
 **Goal in Context:**
 
