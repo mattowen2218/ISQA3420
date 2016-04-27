@@ -1,18 +1,17 @@
-#Use Case 3
-**Title:**
+# Use Case 3
 
-**Primary Actor:**
+* __Title:__
 
-**Goal in Context:**
+* __Primary Actor:__
 
-**Stakeholders:**
+* __Goal in Context:__
 
-**Preconditions:**
+* __Stakeholders:__
 
-**Main Success Scenario:**
+* __Preconditions:__
 
-**Failed End Conditions:**
+* __Main Success Scenario:__
 
-**Trigger:**
+* __Failed End Conditions:__
 
-
+* __Trigger:__
