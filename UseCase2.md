@@ -1,7 +1,8 @@
 # Use Case 2
+
 * __Title:__
 Manager determines policy violations on a package.
-.
+
 * __Primary Actor:__
 Manager
 
