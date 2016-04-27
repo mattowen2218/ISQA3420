@@ -1,24 +1,25 @@
-#Use Case 1
-**Title:**
-Developer commits code to be examined for vulnerabilities
+# Use Case 2
 
-**Primary Actor:**
+* __Title:__
+Developer commits code to be examined for vulnerabilities.
+
+* __Primary Actor:__
 Developer
 
-**Goal in Context:**
+* __Goal in Context:__
 Gather vulnerability information for all external source code that is used by developers
 
-**Stakeholders:**
+* __Stakeholders:__
 Developer/Manager
 
-**Preconditions:**
+* __Preconditions:__
 Developer is able to check in external source code to vulnerability system. NIST vulnerability database is up to date.
 
-**Main Success Scenario:**
+* __Main Success Scenario:__
 Developer checks in code and vulnerability information is recorded to the Risk DB.
 
-**Failed End Conditions:**
+* __Failed End Conditions:__
 Developer is unable to check in code.  Checked in code is not checked for vulnerabilities, failing to update Risk DB.
 
-**Trigger:**
+* __Trigger:__
 Code check in
