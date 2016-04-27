@@ -22,4 +22,3 @@ Vulnerability information needed to pass policy is not present for comparison; a
 
 * __Trigger:__
 Package has all vulnerability information gathered.
-
