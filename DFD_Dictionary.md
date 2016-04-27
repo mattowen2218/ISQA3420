@@ -81,3 +81,4 @@ A file containing the comparison of the policy and the current project to show v
 The developer is the internal employee that completes tasks within the project and decides what external source could possibly be useful for the task they are attempting to complete. They also submit potential sources for vulnerability information and pass all information gathered along through the company for a final decsion. 
 
 * __Corporate Manager:__
+The coporate manager sets policy for the engagement with external source.  They also compare the incoming code and packages to the policy in order to decide if it is acceptable.  They also create the manifest for each package of source code. 
