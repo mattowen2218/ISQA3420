@@ -1,2 +1,2 @@
 # ERD
-![alt](http://imgur.com/WvXsPzS)
+![alt](http://i.imgur.com/WvXsPzS.png?1)
