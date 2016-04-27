@@ -1,25 +1,25 @@
 # Use Case 2
 
 * __Title:__
-Developer commits code to be examined for vulnerabilities.
+Manager determines policy violations on a package.
 
 * __Primary Actor:__
-Developer
+Manager
 
 * __Goal in Context:__
-Gather vulnerability information for all external source code that is used by developers
+Examining if a code package meets policy standards, so a project can abide by its policy.
 
 * __Stakeholders:__
 Developer/Manager
 
 * __Preconditions:__
-Developer is able to check in external source code to vulnerability system. NIST vulnerability database is up to date.
+The manager is able to get current vulnerability and policy information, and the databases for both are up-to-date.
 
 * __Main Success Scenario:__
-Developer checks in code and vulnerability information is recorded to the Risk DB.
+Any policy violations the package contains is found, and the package is accepted or denied (based on results.)
 
 * __Failed End Conditions:__
-Developer is unable to check in code.  Checked in code is not checked for vulnerabilities, failing to update Risk DB.
+Vulnerability information needed to pass policy is not present for comparison; any information used to determine policy violations isn't accurate.
 
 * __Trigger:__
-Code check in
+Package has all vulnerability information gathered.
