@@ -77,5 +77,6 @@ A document that contains the package and vulnerability information along with ot
 A file containing the comparison of the policy and the current project to show violations and risks that do not meet the guidelines outlined by the policy.
 
 ### External Entities
-*Developer
-*Corporate Manager
+* __Developer:__
+
+* __Corporate Manager:__
